@@ -19,7 +19,7 @@ Estou sempre em busca de aprendizado e novas tecnologias, pois acredito que a ev
             alt="Linkedin" 
             title="Me siga no Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/linkedin-blue
-            ?color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=logotipo-do-linkedin "
+            ?color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=logotipo-do-linkedin"
         />
     </a>    
 </p>
